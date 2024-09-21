@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)](https://github.com/Athrudev)
 <h1 align="center">Hi 👋, I'm Atharva Kamble</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNmNzJubG4waGtlcDFoMHRybzJ3MGVibjFsb20xbGYyNW1pb29mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athrudev&label=Profile%20views&color=0e75b6&style=flat" alt="athrudev" /> </p>
 
 - 🌱 I’m currently learning **MERN**
